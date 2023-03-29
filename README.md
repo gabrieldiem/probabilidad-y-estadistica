@@ -19,13 +19,13 @@
 
 ## Capítulo 2
 
-[Capítulo 2 - Video 1](https://www.youtube.com/watch?v=CEmqZNhlSqs)
-[Capítulo 2 - Ejercicio 1](https://www.youtube.com/watch?v=OP44XBx0Fv4)
-[Capítulo 2 - Video 2](https://www.youtube.com/watch?v=TUceh9nC_uk)
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
-[]()
+[Capítulo 2 - Video 1](https://www.youtube.com/watch?v=CEmqZNhlSqs) <br/>
+[Capítulo 2 - Ejercicio 1](https://www.youtube.com/watch?v=OP44XBx0Fv4) <br/>
+[Capítulo 2 - Video 2](https://www.youtube.com/watch?v=TUceh9nC_uk) <br/>
+[]() <br/>
+[]() <br/>
+[]() <br/>
+[]() <br/>
+[]() <br/>
+[]() <br/>
+[]() <br/>
