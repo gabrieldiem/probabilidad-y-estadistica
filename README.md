@@ -22,9 +22,17 @@
 [Capítulo 2 - Video 1](https://www.youtube.com/watch?v=CEmqZNhlSqs) <br/>
 [Capítulo 2 - Ejercicio 1](https://www.youtube.com/watch?v=OP44XBx0Fv4) <br/>
 [Capítulo 2 - Video 2](https://www.youtube.com/watch?v=TUceh9nC_uk) <br/>
-[]() <br/>
-[]() <br/>
-[]() <br/>
+[Capítulo 2 - Ejercicio 2](https://www.youtube.com/watch?v=tcNNW2y-Cus) <br/>
+[Capítulo 2 - Ejercicio 3](https://www.youtube.com/watch?v=wJCOzlod15c) <br/>
+[Capítulo 2 - Video 3](https://www.youtube.com/watch?v=lYOEVjGg1OY) <br/>
+[Capítulo 2 - Ejercicio 4](https://www.youtube.com/watch?v=LmAw5Sy0p-8) <br/>
+[Capítulo 2 - Video 4](https://www.youtube.com/watch?v=Konj8Hkifnw) <br/>
+[Capítulo 2 - Ejercicio 5](https://www.youtube.com/watch?v=1GS-b4OyMLI) <br/>
+[Capítulo 2 - Video 5](https://www.youtube.com/watch?v=Ssj9P3RiAHM) <br/>
+[Capítulo 2 - Ejercicio 6](https://www.youtube.com/watch?v=nEETZlbC-Is) <br/>
+
+## Capítulo 3
+
 []() <br/>
 []() <br/>
 []() <br/>
