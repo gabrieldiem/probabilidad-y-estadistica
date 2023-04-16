@@ -2,7 +2,14 @@
 
 ## Introducción
 
-[Introduccion](https://www.youtube.com/watch?v=lkMxAtPI_Nw)
+[Introducción](https://www.youtube.com/watch?v=lkMxAtPI_Nw)
+
+## Aprendiendo R
+
+[Aprendiendo R - Capítulo 1](https://www.youtube.com/watch?v=3la8djhvxbE) <br/>
+[Aprendiendo R - Capítulo 2](https://www.youtube.com/watch?v=0lsIPeLYobY) <br/>
+[Aprendiendo R - Capítulo 3](https://www.youtube.com/watch?v=HzhhkLSRxNg) <br/>
+[Aprendiendo R - Capítulo 4](https://www.youtube.com/watch?v=dd9ii5a7wmw) <br/>
 
 ## Capítulo 1
 
@@ -33,7 +40,41 @@
 
 ## Capítulo 3
 
-[]() <br/>
-[]() <br/>
-[]() <br/>
+[Capítulo 3 - Video 1](https://www.youtube.com/watch?v=jGnGwII71zM) <br/>
+[Capítulo 3 - Video 2](https://www.youtube.com/watch?v=7kO8-7WVfVo) <br/>
+[Capítulo 3 - Ejercicio 1](https://www.youtube.com/watch?v=XsShQ_ceKkc) <br/>
+[Capítulo 3 - Ejercicio 2](https://www.youtube.com/watch?v=HBfcmyUgdnI) <br/>
+[Capítulo 3 - Video 3](https://www.youtube.com/watch?v=Ikb27u8rbuY) <br/>
+
+## Capítulo 4
+
+[Capítulo 4 - Video 1](https://www.youtube.com/watch?v=lqHvWmeDrIQ) <br/>
+[Capítulo 4 - Video 2](https://www.youtube.com/watch?v=xFoO6QVTNi4) <br/>
+
+## Capítulo 5
+
+[Capítulo 5 - Video 1](https://www.youtube.com/watch?v=OGMEMrVRFos) <br/>
+[Capítulo 5 - Ejercicio 1](https://www.youtube.com/watch?v=YkI0knASwEk) <br/>
+[Capítulo 5 - Video 2](https://www.youtube.com/watch?v=3IuTylXDrdE) <br/>
+[Capítulo 5 - Ejercicio 2](https://www.youtube.com/watch?v=rBv2AvBcVNQ) <br/>
+[Capítulo 5 - Ejercicio 3](https://www.youtube.com/watch?v=gXxON3zm-ZM) <br/>
+[Capítulo 5 - Ejercicio 4](https://www.youtube.com/watch?v=CeRi-Tr3iK4) <br/>
+[Capítulo 5 - Ejercicio 5](https://www.youtube.com/watch?v=KxC_QNf0ASQ) <br/>
+
+## Capítulo 6
+
+[Capítulo 6](https://www.youtube.com/watch?v=c1nfWqrNNZI) <br/>
+[Capítulo 6: Bonus Track](https://www.youtube.com/watch?v=LvECD3TcbKo) <br/>
+
+## Capítulo 7
+
+[Capítulo 7 - Video 1](https://www.youtube.com/watch?v=-HtCWLAwFh0) <br/>
+[Capítulo 7 - Video 2](https://www.youtube.com/watch?v=jB3Qj7BZb9c) <br/>
+[Capítulo 7 - Ejercicio 1](https://www.youtube.com/watch?v=FgzsC1M69yg) <br/>
+[Capítulo 7 - Ejercicio 2](https://www.youtube.com/watch?v=fC-pFDyjX7k) <br/>
+[Capítulo 7 - Ejercicio 3](https://www.youtube.com/watch?v=3WzhDagC-7A) <br/>
+
+## Capítulo 8
+
+[Capítulo 8](https://www.youtube.com/watch?v=SKdWfTHx4qg) <br/>
 []() <br/>
